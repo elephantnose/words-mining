@@ -1,9 +1,13 @@
 # 基于自由度及凝固度的新词发现/新词挖掘
 
 ## 流程图
-<div align=center> ![](https://github.com/elephantnose/FigureBed/blob/master/words_mining_flowe_graph2.PNG) </>
+
+<div style="align: center">
+<img src="https://github.com/elephantnose/FigureBed/blob/master/words_mining_flowe_graph2.PNG"/>
+</div>
 
 ## 四大名著样例
+
  TOP50(按词频降序排序)
 
 《红楼梦》 
