@@ -1,16 +1,7 @@
 # 基于自由度及凝固度的新词发现/新词挖掘
 
 ## 流程图
-```flow
-st=>start: Start
-op1=>operation: 文本预处理
-op2=>operation: 构建正序反序tiretree
-op3=>operation: 策略过滤(自由度, 凝固度, 词典)
-op4=>operation: 输出
-e=>end
-
-st->op1->op2->op3->op4->e
-```
+<div align=center> ![](https://github.com/elephantnose/FigureBed/blob/master/words_mining_flowe_graph2.PNG) </>
 
 ## 四大名著样例
  TOP50(按词频降序排序)
